@@ -21,14 +21,18 @@ A GSoC project would expand the existing interface, aiming for full coverage.
 
 Mentor: [Matthias Köppe](https://www.math.ucdavis.edu/~mkoeppe/)
 
-Skills: Solid knowledge of polyhedral geometry or/and commutative algebra, Python experience
+Required skills: Solid knowledge of polyhedral geometry or/and commutative algebra, Python experience
 
 Length: 90 to 350 hours
 
 
 ## Full integration of Macaulay2
 
+[passagemath-macaulay2](https://pypi.org/project/passagemath-macaulay2/) already provides a low-level interface to Macaulay2 dating back to the early days of Sage development. A GSoC project would update the interface and expose much of Macaulay2's functionality in particular in algebraic geometry on a high level of abstraction.
+
 Mentor: [Matthias Köppe](https://www.math.ucdavis.edu/~mkoeppe/)
+
+Rquired skills: Solid knowledge of Macaulay2; Python experience
 
 Length: 90 to 350 hours
 
@@ -37,7 +41,7 @@ Length: 90 to 350 hours
 
 Mentor: [Matthias Köppe](https://www.math.ucdavis.edu/~mkoeppe/)
 
-Rquired skills: Solid knowledge of a system such as LEAN, Isabelle, CVC5, MiniZinc; Python experience
+Rqquired skills: Solid knowledge of a system such as LEAN, Isabelle, CVC5, MiniZinc; Python experience
 
 Length: 350 hours
 
